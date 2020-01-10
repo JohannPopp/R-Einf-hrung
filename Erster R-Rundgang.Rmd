@@ -290,7 +290,7 @@ include_graphics("Bilder/History.png")
 RStudio zeigt Ihnen die zuletzt verwendeten Funktionen auch (rechts oben) im Fenster *History* an (siehe Abb. \@ref(fig:history)). Sie können dort ausgewählte Funktionen mit ![To Console](Bilder/toConsole.png){height=17px} in die Konsole kopieren, oder mit ![To Source](Bilder/toSource.png){height=17px} in eine Skript-Datei, in der Sie Ihre Arbeitsschritte speichern und protokollieren können.
 
 
-`r newthought("Es ist unbedingt empfehlenswert,")` mit solchen Skript-Dateien zu arbeiten. Ein neues Skript erstellen Sie, indem Sie links oben ![Neues Skript 1](Bilder/NeuSkript1.png){height=17px} und dann ![Neues Skrip 2](Bilder/NeuSkript2.png){height=6mm} klicken. Um einzelne Funktionen aus dem Skript heraus auszuführen, klicken Sie ![Run](Bilder/Run.png){height=17px} oder drücken Sie *STRG-Enter*. Das gesamte Skript können Sie mit ![source](Bilder/Source.png){height=17px} ausführen, oder Sie können in der Konsole die Funktion `source()` ausführen.
+`r newthought("Es ist unbedingt empfehlenswert,")` mit solchen Skript-Dateien zu arbeiten. Ein neues Skript erstellen Sie, indem Sie links oben ![Neues Skript 1](Bilder/NeuSkript1.png){height=17px} und dann ![Neues Skrip 2](Bilder/NeuSkript2.png){height=17px} klicken. Um einzelne Funktionen aus dem Skript heraus auszuführen, klicken Sie ![Run](Bilder/Run.png){height=17px} oder drücken Sie *STRG-Enter*. Das gesamte Skript können Sie mit ![source](Bilder/Source.png){height=17px} ausführen, oder Sie können in der Konsole die Funktion `source()` ausführen.
 ```{marginfigure}
 Ein Skript mit `source()` auszuführen.
 ```
