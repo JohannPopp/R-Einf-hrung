@@ -1,4 +1,3 @@
-    language:
-      label:
-       fig: "Abbildung "
-       tab: "Tabelle "
+language:
+  label:
+    fig: "Abbildung "
